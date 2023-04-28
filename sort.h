@@ -24,5 +24,5 @@ void selection_sort(int *array, size_t size);
 void quick_sort(int *array, size_t size);
 void swap(int *x, int *y);
 void quicksort_recursion(int *array, size_t low, size_t high);
-int partition(int *array, size_t low, size_t high); 
+int partition(int *array, size_t low, size_t high);
 #endif /*SORT_H*/
